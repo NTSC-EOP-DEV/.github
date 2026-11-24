@@ -1,0 +1,15 @@
+# 子仓库（独立 Git 仓库，不要提交到父仓库 .github）
+getting-started/
+group-notes/
+NTSC-IAA-Pulsar/
+Obsidian-wiki-tools/
+
+# 系统/IDE
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
